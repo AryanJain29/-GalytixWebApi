@@ -1,0 +1,5 @@
+/Users/aryanjain/Downloads/BE exercise/Galytix/obj/Debug/netcoreapp3.1/Galytix.WebApi.csproj.AssemblyReference.cache
+/Users/aryanjain/Downloads/BE exercise/Galytix/obj/Debug/netcoreapp3.1/Galytix.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aryanjain/Downloads/BE exercise/Galytix/obj/Debug/netcoreapp3.1/Galytix.WebApi.AssemblyInfoInputs.cache
+/Users/aryanjain/Downloads/BE exercise/Galytix/obj/Debug/netcoreapp3.1/Galytix.WebApi.AssemblyInfo.cs
+/Users/aryanjain/Downloads/BE exercise/Galytix/obj/Debug/netcoreapp3.1/Galytix.WebApi.csproj.CoreCompileInputs.cache
